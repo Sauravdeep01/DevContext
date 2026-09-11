@@ -1,0 +1,9 @@
+# Backend GitIgnore
+__pycache__/
+app/__pycache__/
+app/*/__pycache__/
+*.pyc
+cloned_repos/
+venv/
+.venv/
+.env
